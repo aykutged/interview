@@ -39,7 +39,7 @@
   
 ##Project timeline
 
-- Do as much as you can in 8 hours.
+- Do as much as you can in 2 hours.
   
 Good luck!
 
